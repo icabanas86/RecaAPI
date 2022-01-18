@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EON-29\\documents\\ivan\\ApiRecauderia\\RecaAPi\\RecaAPi.csproj": {}
+    "C:\\Users\\EON-29\\Documents\\Ivan\\ApiRecauderia\\APIReca\\RecaAPI\\RecaAPi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EON-29\\documents\\ivan\\ApiRecauderia\\RecaAPi\\RecaAPi.csproj": {
+    "C:\\Users\\EON-29\\Documents\\Ivan\\ApiRecauderia\\APIReca\\RecaAPI\\RecaAPi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EON-29\\documents\\ivan\\ApiRecauderia\\RecaAPi\\RecaAPi.csproj",
+        "projectUniqueName": "C:\\Users\\EON-29\\Documents\\Ivan\\ApiRecauderia\\APIReca\\RecaAPI\\RecaAPi.csproj",
         "projectName": "RecaAPi",
-        "projectPath": "C:\\Users\\EON-29\\documents\\ivan\\ApiRecauderia\\RecaAPi\\RecaAPi.csproj",
+        "projectPath": "C:\\Users\\EON-29\\Documents\\Ivan\\ApiRecauderia\\APIReca\\RecaAPI\\RecaAPi.csproj",
         "packagesPath": "C:\\Users\\EON-29\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EON-29\\documents\\ivan\\ApiRecauderia\\RecaAPi\\obj\\",
+        "outputPath": "C:\\Users\\EON-29\\Documents\\Ivan\\ApiRecauderia\\APIReca\\RecaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EON-29\\AppData\\Roaming\\NuGet\\NuGet.Config",

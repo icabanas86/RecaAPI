@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hZdpwfrydifudtF8eNRhjCTPEEwWpmXMDzKzKymXvyOOQlouErxuKp2exalk6K5sQ4GDM14KlHknbK4UpXX7qg==",
+  "dgSpecHash": "Z3CmWWJncCKB/jX6PtcodFiXFHk+CHANP+jgFdglEtC4Yun5vnk+qf5nbOnM8ZGHXMIE4ikPns1sa+Fklu0CoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EON-29\\documents\\ivan\\ApiRecauderia\\RecaAPi\\RecaAPi.csproj",
+  "projectFilePath": "C:\\Users\\EON-29\\Documents\\Ivan\\ApiRecauderia\\APIReca\\RecaAPI\\RecaAPi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EON-29\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
     "C:\\Users\\EON-29\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
